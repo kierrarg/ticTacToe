@@ -12,4 +12,8 @@
    <code class="language-css">
       python3 -m pip install -U -r requirements.txt --user && python3 main.py
    </code>
+   </pre>
+   <h4>This program was created as an assignment for 3750 Artificial Intelligence<h4>
    
+   ![tictactoe](https://user-images.githubusercontent.com/78625238/166135013-2c97cfb4-51ff-422c-8f86-c9e8c60d06f0.png)
+
