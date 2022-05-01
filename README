@@ -1,10 +1,1 @@
-<h1> Python Tic Tac Toe Simulator <h1>
-<h4> Created using the minimax algorithm and alpha-beta pruning <h4>
-<h4> In order to run this program you will need to have <h4>
-   <pre class="line-numbers">
-   <code class="language-css">
-      python 3
-   </code>
-</pre>
-
-<h4> installed <h4>
+#Python Tic Tac Toe Simulator
